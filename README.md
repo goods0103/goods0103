@@ -1,7 +1,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goods0103)](https://solved.ac/goods0103)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=goods0103&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle=goods0103&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle=goods0103&theme=cold"/>
 <!--
 **goods0103/goods0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
