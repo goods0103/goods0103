@@ -2,7 +2,7 @@
 
 <!--
 **goods0103/goods0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goods0103)](https://solved.ac/goods0103)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
