@@ -1,6 +1,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goods0103)](https://solved.ac/goods0103)
-잔디심기 1
+잔디심기 2
 <!--
 **goods0103/goods0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
